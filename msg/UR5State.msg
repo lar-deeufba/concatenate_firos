@@ -1,6 +1,6 @@
 # -- Message to concaternate different messages to be send to Oreon Broker --
 
-float32 time
+float32 Time
 
 # Which skill is being run
 # 0 -> Initialization  
