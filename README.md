@@ -1,6 +1,9 @@
 # Concatenate UR5 Messages
 Concatenate wished topics into a single message to be sent to Oreon Broker.
 
+## Installation
+Just clone this repository to your catkin workspace and make it. The message type should be recognized by ROS afterwards. 
+
 ## Usage
 
 To use the message in Python:
